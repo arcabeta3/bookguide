@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Text Adventure: The Path I Walked",
+  "description": "An interactive text adventure that allows users to experience a chapter of a philosophical book. Users can progress through the story and ask Gemini questions about the text to gain deeper insights.",
+  "requestFramePermissions": []
+}
